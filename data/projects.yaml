@@ -1,0 +1,36 @@
+- title: Book Cover Re-Design
+  slug: book-cover
+  description: I was asked by Brockett Horne to do a fictional for the book How To Be a Graphic Designer Without Losing Your Soul, by Adrian Shaughnessy. The twist, one cover was supposed to showcase 'good design' and the other, 'bad design'. Honestly, I think both of them are great.
+  images:
+      - book.png
+- title: Parent & Family Weekend Poster
+  slug: parent-family-poster
+  description: I was asked to design the poster for Parent and Family Weekend Coffee House at MICA, and I was given a family portrait of the host to work with. I wanted to evoke the feeling of childhood. I also wanted to collaborate friends of mine whose handwriting and doodles I admire.<br><br>Lettering by Hannah Mack. Doodles by Genesis Crespo, Karen Shea and Matthew Thompson.
+  images:
+      - parent.gif
+- title: CL8 The GR8 Album Cover
+  slug: cl8-the-great
+  description: This is a project I worked on for a while. It is the album cover for local Virginia rapper, CL8 THE CR8. I worked hard to make something as bold as Cl8s lyrics. After various revisions I was able to create something that we both really like.
+  images:
+      - cl8.png
+- title: Story Writr Mobile App
+  slug: story-writr
+  description: Storywritr is a fictional collaborative story writing app concept. The app was presented to me by Instructor Mark Sanders. I was given the name and concept, the design was up to me. I choose to use color as a function rather than just a decoration. When a user joins a story and add their first sentence they are given a random color. This allow the story to read in paragraph form yet still allow individuals users to stand apart. 
+  images:
+      - story_writr.png
+- title: Time Spent
+  slug: time-spent
+  description: Time Spent is a ongoing project in my life. It is a collaboration with Matthew Thompson. The site features original a-cappella hip hop videos. Matthew shoots the videos and I do the design and motion graphics. Our project was featured on Kickstarter where we raised the funds for a real Baltimore billboard to promote our growing endeavor in the world of hip-hop.<br><br><a href="http://timespent.biz">Visit timespent.biz</a> for the whole story.
+  video: <iframe src="//player.vimeo.com/video/71159932?title=0&amp;byline=0&amp;portrait=0&amp;color=ed1b51" width="900" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  images:
+      - timespent.png
+- title: Iteractive Poster
+  slug: interactive-poster
+  description: When I found out how many people in Baltimore are heroin users I was shocked. I decided to create a poster to inform people, and also make them think. Instead of just telling people the alarming number I choose to slow down the process and pose it in the form for a question. When the viewer scans the QR codes they are presented with more information. Sadly the correct answer is 45,000. (Sidenote, at the time this was made QR codes were having their moment)
+  images:
+      - qrposter.png
+- title: Ronin Ifthak Wood
+  slug: about
+  description: Ronin Wood is a Brooklyn based Designer. He is Co-founder/Designer at Time Spent in NYC. Ronin grew up in Virginia and graduated from Maryland Institute College of Art. He likes bagels and Thai food.<br><br><a href="http://dribbble.com/RoninWood" target="_blank">Dribbble</a><br><a href="http://betterinmylyf.tumblr.com/" target="_blank">Tumblr</a>
+  images:
+      - ronin.png

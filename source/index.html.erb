@@ -1,0 +1,51 @@
+---
+title: Ronin Wood - Graphic Design 
+---
+    <li id="home">
+        <!-- Container Start-->
+        <div class="container">
+          <h1>designer at time spent NYC</h1>
+          <div class="container">
+            <div class="masthead">
+              <img src="images/masthead.png">
+              <ul class="home-nav">
+                <li><a href="#about"><h5>About</h5></a></li>
+                <li><a href="#" class="next"><h5>Portfolio</h5></a></li>
+              </ul>
+            </div>
+          </div>
+        <!-- Container End-->
+        </div>
+      <!-- Slide End-->
+      </li>
+<% data.projects.each do |p| %>
+    <!-- Slide Start-->
+      <li id="<%= p["slug"] %>">
+        <!-- Container Start-->
+        <div class="container">
+          <h1><%= p["title"] %></h1>
+          <div class="content">
+            <!-- Video Begin-->
+            <div class="video">
+              <%= p["video"] %>
+            </div>
+            <!-- Video End-->
+            <!-- Images Begin-->
+            <ul class="images">
+              <%  p["images"].each do |image| %>
+                <li> <%= image_tag "#{image}" %></li>
+              <% end %>
+            <!-- Images End-->
+            </ul>
+          </div>
+          <!-- Description Begin-->
+          <div class="description">
+            <p><%= p["description"] %></p>
+          <!-- Description End-->
+          </div>
+          <div class="clear"></div>
+        <!-- Container End-->
+        </div>
+      <!-- Slide End-->
+      </li>
+<% end %>
